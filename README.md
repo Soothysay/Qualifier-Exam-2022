@@ -1,4 +1,2 @@
-# Qualifier-Exam-2022
-The following repo contain my Report and Presentation For my Qualifier Examination
-  Committee Mambers: Rishab Nithyanand (Committe Head), Supreeth Shastri, Guanpeng Li.
-  Result: Passed.
+Add two spaces before the end of the line, and then select **Enter**.(space, space, Enter)
+A space gets added in between paragraphs.
